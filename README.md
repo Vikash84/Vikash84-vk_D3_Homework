@@ -1,13 +1,11 @@
-# D3 Homework - Data Journalism and D3
-
-You need to create a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
-Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. You'll code this graphic in the app.js file of your homework directory—make sure you pull in the data from data.csv by using the d3.csv function. Your scatter plot should ultimately appear like the image at the top of this section.
+# D3.js challenge 
 
 
-Include state abbreviations in the circles.
+## Images
 
+![Image1](Images/Image-1.PNG)
 
-Create and situate your axes and labels to the left and bottom of the chart.
+![Image2](Images/Image-2.PNG)
 
+![Image3](Images/Image-3.PNG)
 
-Note: You'll need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in your web browser.
